@@ -500,3 +500,15 @@ right section style */
 .right .sales_analytics .item:nth-child(4) .icon {
   background-color: var(--clr-danger);
 }
+
+.add_product div {
+  display: flex;
+  height: 60px;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: var(--clr-dark-variant);
+  margin-bottom: 40px;
+  border: 2px dashed;
+}
